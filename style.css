@@ -1,0 +1,110 @@
+.table {
+    
+    border: 1px solid black;
+    
+    
+}
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: wheat;
+    font-size: 2em;
+}
+.header {
+    font-size: 3em;
+    background-color: wheat;
+}
+#korrutus td, #korrutus tr, #korrutus th {
+    
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+#aja {
+    margin-top: 30px;
+    background-color: antiquewhite;
+
+}
+#mahu {
+    background-color: antiquewhite;
+
+}
+#pikkus {
+    margin-top: 30px;
+    background-color: antiquewhite;
+
+}
+#mass {
+    background-color: antiquewhite;
+
+}
+#korrutus {
+    margin-top: 30px;
+    background-color: antiquewhite;
+
+}
+#korrutus tr:nth-child(even) {
+    background-color:#add8e6;
+}
+caption {
+    font-size: 1.5em;
+}
+body {
+    background-color: wheat;
+}
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: 3px solid black;
+ margin-left: 10px;
+ margin-top: 20px;
+ background-color: antiquewhite;
+}
+#ruut {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.75em;
+    margin-top: 30px;
+    line-height: 1.5em;
+}  
+#ruudu {
+ margin: 0px auto;
+ background-color: antiquewhite;
+ max-width: 90%;
+ margin-top: 30px;
+}
+#a-1 {
+    margin-top: 80px;
+    margin-left: 205px;
+    font-weight: bold;
+    font-size: 2em;
+}
+#a-2 {
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 75px;
+    margin-left: 80px;
+}
+.reqtangle {
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border: 3px solid black;
+ margin-left: 10px;
+ 
+ background-color: antiquewhite;
+}
+#a-3 {
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#b {
+    font-weight: bold;
+    font-size: 2em;
+    margin-left: 305px;
+    margin-top: 55px;
+}
